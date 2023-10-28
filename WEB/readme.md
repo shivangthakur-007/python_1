@@ -1,0 +1,9 @@
+- emmet is a toolkit which provide some useful code which called as boilerplate.
+- HTML TAGS => A CONTAINER CONTAIN SOME CONTENT OR OTHER HTML TAGS.
+- <>->OPENING TAG </>->CLOSING TAG
+- <!Doctype html> tells browser you are using html5.
+- <HTML> -> root of an html document.
+- <head> container for meta data.
+- <title> page title.
+- <body> contains all the data rendered on the browser.
+- <p> content or container in which a content has. 

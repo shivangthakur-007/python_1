@@ -45,5 +45,4 @@
 - Varaible is used to locate the value in a memory.
 - Python is case-sensitive.
 
-** Value and Types **
-
+**Value and Types**
